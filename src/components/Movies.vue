@@ -88,7 +88,7 @@ export default {
     </main>
     <footer>
       <p>&copy; 2024 Galeria de Filmes IMDB. Todos os direitos reservados.</p>
-      <p>Desenvolvido por <a href="https://www.seusite.com" target="_blank">Agílio Jamisse, Cindy Zacarias,	Grácio Kabongo, Harmónico Augusto</a></p>
+      <p>Desenvolvido por <a href="https://www.seusite.com" target="_blank">Agílio Jamisse, Cindy Zacarias,	Grácio Kabongo, Harmónico Augusto, Walter Salgado</a></p>
     </footer>
   </div>
 </template>
